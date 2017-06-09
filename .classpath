@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry excluding="com/example/yh/exbutton/app1/src/" kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/main/java/com/example/yh/exbutton/app1/src"/>
+	<classpathentry kind="lib" path="app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_0b76e5bf769341b3670454a3c1f2e1be3d4b20ab.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_2bd739ab804d79fa5fc098ce1f7c1acf5781e4bf.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_4ebb4c7ab5c963071126444e98d8c4d899783537.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_6233736a747dc778fc9820d9bef1d475fd8e924d.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_71bfa018b0ca474f4e36079d3cb178e0d3a4e288.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_8acd0bde246b6fedb1198dc37ac517b4061cdb81.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_ba5d28e60ce6825fff1cd7210f5fe23d4322bd87.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_ca6c74055b2e8212c9346f0e586f10f61ebf4a5c.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_cd263b602d2fdd31110604682d75908fb0e8582a.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_eb7eb0a7ab1122b923bdd3777adfb0d659378f1a.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_f3cc37470602d378cc7fef701239529b73173899.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_f3f9b7bb9c7afc460684fbca3276338b0439685b.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes_ff05b6b8397589c1a64c1596aaf4a00bd138a1db.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8952e18e9202e0e138b8aeb2ab1451393393f59a.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/debug_e4730620b52402bc97bfadbc600c8621d9f75481.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_bf19e0c34e4688c12f2013751c15098c831e9ef3.jar"/>
+	<classpathentry kind="lib" path="build/generated/mockable-android-25.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="app/build/intermediates/classes/androidTest/debug"/>
+</classpath>
